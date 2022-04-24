@@ -1,0 +1,3 @@
+Abstract: 
+
+	The Thermoelctric device was applied to a car seat to control the hot temperature in the summer and cold temperature in the Winter. The characteristics of the device used to a car seat were analysed . The air conditioning structure was designed to regulate the hot side of the thermoelectric device. To control the temperature of the car seat, a robust control algorithm based on the sliding mode control was applied, and a controller using one-chip micro processor was developed. The performence of the proposed controller through experiments was shown. 
